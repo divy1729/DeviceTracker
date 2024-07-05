@@ -25,7 +25,7 @@ Backend: Node.js, Socket.IO
 Geolocation API: HTML5 Geolocation API
 Getting Started
 
-Clone the repository: git clone https://github.com/your-username/realtime-location-sharing.git
+Clone the repository: git clone[ https://github.com/your-username/realtime-location-sharing.git](https://github.com/divy1729/DeviceTracker)
 Install dependencies: npm install
 Start the server: node server.js
 Open the application in a web browser: http://localhost:3000
