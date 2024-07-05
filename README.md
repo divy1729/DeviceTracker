@@ -1,4 +1,4 @@
-# tracker
+# Location Tracker
  Real-time Location Sharing with Socket.IO and Leaflet
 Overview
 
@@ -10,6 +10,7 @@ Real-time location sharing using Socket.IO
 Map display using Leaflet
 Automatic updating of user locations on the map
 Removal of user markers when they disconnect
+
 How it Works
 
 Users connect to the application using Socket.IO.
@@ -18,6 +19,7 @@ The location is sent to the server using Socket.IO.
 The server broadcasts the location to all connected users.
 Each user's location is displayed on a map using Leaflet.
 When a user disconnects, their marker is removed from the map.
+
 Technical Details
 
 Frontend: JavaScript, Socket.IO, Leaflet
@@ -25,7 +27,7 @@ Backend: Node.js, Socket.IO
 Geolocation API: HTML5 Geolocation API
 Getting Started
 
-Clone the repository: git clone[ https://github.com/your-username/realtime-location-sharing.git](https://github.com/divy1729/DeviceTracker)
+Clone the repository: git clone LINK (https://github.com/divy1729/DeviceTracker)
 Install dependencies: npm install
 Start the server: node server.js
 Open the application in a web browser: http://localhost:3000
